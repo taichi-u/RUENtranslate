@@ -4,6 +4,7 @@ Make>dot py を作る。
 
 #Corpus
 https://opus.nlpl.eu/results/en&ru/corpus-result-table
+
 https://tatoeba.org/ja/downloads
 
 #翻訳機の作り方
